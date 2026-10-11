@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://yangsimlab.com/sitemap.xml
+Sitemap: https://factory.yangsimlab.com/sitemap.xml
+Sitemap: https://warehouse.yangsimlab.com/sitemap.xml
+Sitemap: https://hospital.yangsimlab.com/sitemap.xml
+Sitemap: https://corporate.yangsimlab.com/sitemap.xml
+Sitemap: https://store.yangsimlab.com/sitemap.xml
