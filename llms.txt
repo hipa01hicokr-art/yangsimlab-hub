@@ -9,7 +9,7 @@
 - [창고화재보험](https://warehouse.yangsimlab.com/): 물류창고·냉동창고·보관업 대상. 창고 건물·랙·하역 설비, 화주 수탁물·창고업자 배상, 성수기 최대 재고. 칼럼 14편. 상세: https://warehouse.yangsimlab.com/llms.txt
 - [병원화재보험](https://hospital.yangsimlab.com/): 병의원·한의원·치과·요양시설 대상. 의료장비·인테리어, 환자 시설 배상책임, 요양원 배상·의무보험. 칼럼 11편. 상세: https://hospital.yangsimlab.com/llms.txt
 - [기업보험](https://corporate.yangsimlab.com/): 법인·건설사·제조·유통 기업 대상. 건설공사·조립보험, 영업배상·PL·전문인배상, 재산종합·단체상해. 칼럼 17편. 상세: https://corporate.yangsimlab.com/llms.txt
-- [상가화재보험](https://store.yangsimlab.com/): 음식점·카페·미용실·학원 등 가게 대상. 시설·집기·재고, 옆 점포·건물주 배상, 다중이용업소 의무보험. 칼럼 41편. 상세: https://store.yangsimlab.com/llms.txt
+- [상가화재보험](https://store.yangsimlab.com/): 음식점·카페·미용실·학원 등 가게 대상. 시설·집기·재고, 옆 점포·건물주 배상, 다중이용업소 의무보험. 칼럼 46편. 상세: https://store.yangsimlab.com/llms.txt
 
 ## 연락처
 - 전화: 010-8284-6593
