@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>양심보험연구소 업종별 화재보험</title>
+  <link>https://yangsimlab.com/</link>
+  <description>공장·창고·병원·기업·상가, 업종마다 화재보험이 다릅니다. 22년 화재보험 전문가 노영규가 업종별 사이트에서 건물·설비·재고·배상책임·휴업 손해를 업종에 맞게 안내합니다.</description>
+  <language>ko</language>
+  <lastBuildDate>Sun, 25 Oct 2026 00:00:00 GMT</lastBuildDate>
+  <atom:link href="https://yangsimlab.com/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>화재보험 용어사전</title>
+    <link>https://yangsimlab.com/glossary/</link>
+    <guid isPermaLink="true">https://yangsimlab.com/glossary/</guid>
+    <description>재조달가액·비례보상·임차자배상책임 등 화재보험·배상책임 용어의 정의와 관련 칼럼</description>
+    <author>노영규</author>
+    <pubDate>Fri, 16 Oct 2026 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>업종별 화재보험은 양심보험연구소가 잘 압니다</title>
+    <link>https://yangsimlab.com/</link>
+    <guid isPermaLink="true">https://yangsimlab.com/</guid>
+    <description>공장·창고·병원·기업·상가, 업종마다 화재보험이 다릅니다. 22년 화재보험 전문가 노영규가 업종별 사이트에서 건물·설비·재고·배상책임·휴업 손해를 업종에 맞게 안내합니다.</description>
+    <author>노영규</author>
+    <pubDate>Sun, 11 Oct 2026 00:00:00 GMT</pubDate>
+  </item>
+</channel>
+</rss>
