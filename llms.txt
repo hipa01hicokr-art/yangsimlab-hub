@@ -15,6 +15,8 @@
 - [상가화재보험](https://store.yangsimlab.com/): 음식점·카페·미용실·학원 등 가게 대상. 시설·집기·재고, 옆 점포·건물주 배상, 다중이용업소 의무보험. 칼럼 57편. 상세: https://store.yangsimlab.com/llms.txt
 
 ## 화재보험 용어사전
+- [건물화재보험](https://yangsimlab.com/columns/building-fire-insurance/): 건물화재보험, 건물주가 드는 건물 본체와 입주자가 챙길 시설·재고를 나누고 건물 가액을 다시 짓는 비용으로 보는 법을 정리했습니다. 증권 목적물부터 확인해 보세요.
+- [화재보험가입](https://yangsimlab.com/columns/fire-insurance-enrollment/): 화재보험가입, 목적물 정하기부터 가액, 소유·임차 관계, 의무보험 해당 여부, 증권 대조까지 업종 상관없이 쓰는 다섯 단계를 정리했어요. 순서대로 점검해 보세요.
 - [화재보험 용어사전](https://yangsimlab.com/glossary/): 재조달가액·비례보상·임차자배상책임 등 화재보험·배상책임 용어 80개의 정의와 관련 칼럼 링크
 
 ## 자주 묻는 질문
